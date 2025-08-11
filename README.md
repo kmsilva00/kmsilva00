@@ -2,7 +2,7 @@ Skills :
 
 
 Coding :
-Data science : Experience with numpy, pands python
+Data science : Experience with numpy, pands python\n
 Data parsing : Project in Revit, Dynamo for Revit with embedded python scripts. 
 Algorithms and Data strucutres : Python project BSP1 sorting algorithms && haskell data trees
 
